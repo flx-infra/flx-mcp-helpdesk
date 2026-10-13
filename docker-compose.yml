@@ -16,7 +16,7 @@ version: '3.6'
 
 services:
   mcp:
-    image: fabreguesm/flx-mcp-helpdesk:0.1.0
+    image: fabreguesm/flx-mcp-helpdesk:0.2.0
     hostname: flx-mcp-helpdesk
     networks:
       - agentes
